@@ -1,0 +1,40 @@
+[
+    {
+        "nombreFarmacia": "Farmacia Central",
+        "sucursal": 1,
+        "direccion": "Calle A #123",
+        "medicamentos": [
+            {
+                "nombre": "Golpex",
+                "codMedicamento": 101,
+                "tipo": "tos",
+                "precio": 12.5
+            },
+            {
+                "nombre": "Paracetamol",
+                "codMedicamento": 102,
+                "tipo": "resfrio",
+                "precio": 5.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacia Norte",
+        "sucursal": 2,
+        "direccion": "Av. B #456",
+        "medicamentos": [
+            {
+                "nombre": "Broncolin",
+                "codMedicamento": 201,
+                "tipo": "tos",
+                "precio": 8.0
+            },
+            {
+                "nombre": "Ibuprofeno",
+                "codMedicamento": 202,
+                "tipo": "resfrio",
+                "precio": 6.0
+            }
+        ]
+    }
+]
